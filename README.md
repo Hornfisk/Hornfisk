@@ -11,10 +11,10 @@
 ┌─────────────────────────────────────────────────────────────┐
 │  hornfisk@arch:~$ whoami                                    │
 │                                                             │
-│  > Vlad. vibe coder. I build things. Why not.               │
+│  > Vlad. Vibe coder. I build things. Why not.               │
 │                                                             │
 │  hornfisk@arch:~$ echo $STATUS                              │
-│  > building stuff · open to interesting things              │
+│  > building stuff · Open to interesting things              │
 │                                                             │
 │  hornfisk@arch:~$ uname -a                                  │
 │  > Arch Linux btw.                                          │
