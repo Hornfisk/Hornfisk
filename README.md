@@ -7,6 +7,10 @@
 </p>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hornfisk&layout=compact&theme=dark&hide_border=true&langs_count=6" alt="Top Languages" />
+</p>
+
+<p align="center">
   <a href="https://github.com/Hornfisk/autokit">
     <img src="https://img.shields.io/github/stars/Hornfisk/autokit?style=for-the-badge&color=yellow" alt="autokit stars" />
   </a>
