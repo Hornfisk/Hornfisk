@@ -10,16 +10,13 @@
 
 <p align="center">
   <a href="https://github.com/Hornfisk/autokit">
-    <img src="https://img.shields.io/github/stars/Hornfisk/autokit?style=for-the-badge" alt="autokit stars" />
+    <img src="https://img.shields.io/github/stars/Hornfisk/autokit?style=for-the-badge&color=yellow" alt="autokit stars" />
   </a>
   <a href="https://github.com/Hornfisk/autokit/fork">
-    <img src="https://img.shields.io/github/forks/Hornfisk/autokit?style=for-the-badge" alt="autokit forks" />
+    <img src="https://img.shields.io/github/forks/Hornfisk/autokit?style=for-the-badge&color=blue" alt="autokit forks" />
   </a>
   <a href="https://github.com/Hornfisk/autokit">
-    <img src="https://img.shields.io/github/last-commit/Hornfisk/autokit?style=for-the-badge" alt="autokit last commit" />
-  </a>
-  <a href="https://github.com/Hornfisk/autokit/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/Hornfisk/autokit?style=for-the-badge" alt="autokit license" />
+    <img src="https://img.shields.io/github/last-commit/Hornfisk/autokit?style=for-the-badge&color=green" alt="autokit last commit" />
   </a>
 </p>
 
@@ -51,6 +48,10 @@
 <pre>
 hornfisk@arch:~$ ls ~/projects/
 
+  autokit            automation toolkit
+                     scripts, helpers, and useful glue for getting stuff done
+                     repo → <a href="https://github.com/Hornfisk/autokit">github.com/Hornfisk/autokit</a>
+
   vgalizer           audio-reactive visualizer · VGA aesthetics · glitch fx
                      (python doing weird things to your screen, beautifully)
 
@@ -61,10 +62,6 @@ hornfisk@arch:~$ ls ~/projects/
                      proof that I can make things look good
 
   follow-the-rabbit  landing page · go deeper.
-
-  autokit            automation toolkit
-                     scripts, helpers, and useful glue for getting stuff done
-                     repo → github.com/Hornfisk/autokit
 </pre>
 
 ### Skills
@@ -83,7 +80,7 @@ hornfisk@arch:~$ cat skills.txt
 <pre>
 hornfisk@arch:~$ cat find_me.txt
 
-  github → github.com/Hornfisk
+  github → <a href="https://github.com/Hornfisk">github.com/Hornfisk</a>
   blog   → vlads.blog
          └─ I'm also right here
 </pre>
