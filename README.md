@@ -1,13 +1,38 @@
-```
+<p align="center">
+  <img src="https://img.shields.io/badge/Arch-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
+  <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Hornfisk/autokit">
+    <img src="https://img.shields.io/github/stars/Hornfisk/autokit?style=for-the-badge" alt="autokit stars" />
+  </a>
+  <a href="https://github.com/Hornfisk/autokit/fork">
+    <img src="https://img.shields.io/github/forks/Hornfisk/autokit?style=for-the-badge" alt="autokit forks" />
+  </a>
+  <a href="https://github.com/Hornfisk/autokit">
+    <img src="https://img.shields.io/github/last-commit/Hornfisk/autokit?style=for-the-badge" alt="autokit last commit" />
+  </a>
+  <a href="https://github.com/Hornfisk/autokit/blob/main/LICENSE">
+    <img src="https://img.shields.io/github/license/Hornfisk/autokit?style=for-the-badge" alt="autokit license" />
+  </a>
+</p>
+
+<pre>
  _    _  ____  _____  _   _ ______ _____  _____ _  __
 | |  | |/ __ \|  __ \| \ | |  ____|_   _|/ ____| |/ /
 | |__| | |  | | |__) |  \| | |__    | | | (___ | ' /
 |  __  | |  | |  _  /| . ` |  __|   | |  \___ \|  <
 | |  | | |__| | | \ \| |\  | |     _| |_ ____) | . \
 |_|  |_|\____/|_|  \_\_| \_|_|    |_____|_____/|_|\_\
-```
+</pre>
 
-```
+<pre>
 ┌─────────────────────────────────────────────────────────────┐
 │  hornfisk@arch:~$ whoami                                    │
 │                                                             │
@@ -19,11 +44,11 @@
 │  hornfisk@arch:~$ uname -a                                  │
 │  > Arch Linux btw.                                          │
 └─────────────────────────────────────────────────────────────┘
-```
+</pre>
 
----
+### Projects
 
-```
+<pre>
 hornfisk@arch:~$ ls ~/projects/
 
   vgalizer           audio-reactive visualizer · VGA aesthetics · glitch fx
@@ -36,24 +61,29 @@ hornfisk@arch:~$ ls ~/projects/
                      proof that I can make things look good
 
   follow-the-rabbit  landing page · go deeper.
-```
 
----
+  autokit            automation toolkit
+                     scripts, helpers, and useful glue for getting stuff done
+                     repo → github.com/Hornfisk/autokit
+</pre>
 
-```
+### Skills
+
+<pre>
 hornfisk@arch:~$ cat skills.txt
 
   languages  →  python · typescript · shell · html / css
   env        →  arch · hyprland · vite · react · tailwind
   approach   →  vibe-driven development™
   disclaimer →  not responsible for anything in production
-```
+</pre>
 
----
+### Find me
 
-```
+<pre>
 hornfisk@arch:~$ cat find_me.txt
 
-  blog  →  vlads.blog
+  github → github.com/Hornfisk
+  blog   → vlads.blog
          └─ I'm also right here
-```
+</pre>
