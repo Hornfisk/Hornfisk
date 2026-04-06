@@ -4,8 +4,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/Tailwind-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind" />
 </p>
 
 <p align="center">
@@ -48,8 +46,8 @@
 <pre>
 hornfisk@arch:~$ ls ~/projects/
 
-  autokit            automation toolkit
-                     scripts, helpers, and useful glue for getting stuff done
+  autokit            Drum machine plugin and standalone app for Linux, Windows, macOS 
+                     sample analysis · 2D map · step sequencer · VST3 / CLAP
                      repo → <a href="https://github.com/Hornfisk/autokit">github.com/Hornfisk/autokit</a>
 
   vgalizer           audio-reactive visualizer · VGA aesthetics · glitch fx
@@ -82,5 +80,4 @@ hornfisk@arch:~$ cat find_me.txt
 
   github → <a href="https://github.com/Hornfisk">github.com/Hornfisk</a>
   blog   → vlads.blog
-         └─ I'm also right here
 </pre>
