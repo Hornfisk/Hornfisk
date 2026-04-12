@@ -1,25 +1,10 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Arch-Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Hyprland-58E1FF?style=for-the-badge" alt="Hyprland" />
+  <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/WGSL-4285F4?style=for-the-badge" alt="WGSL" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Hornfisk&layout=compact&theme=dark&hide_border=true" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/Hornfisk/autokit">
-    <img src="https://img.shields.io/github/stars/Hornfisk/autokit?style=for-the-badge&color=yellow" alt="autokit stars" />
-  </a>
-  <a href="https://github.com/Hornfisk/autokit/fork">
-    <img src="https://img.shields.io/github/forks/Hornfisk/autokit?style=for-the-badge&color=blue" alt="autokit forks" />
-  </a>
-  <a href="https://github.com/Hornfisk/autokit">
-    <img src="https://img.shields.io/github/last-commit/Hornfisk/autokit?style=for-the-badge&color=green" alt="autokit last commit" />
-  </a>
 </p>
 
 <pre>
@@ -35,46 +20,39 @@
 ┌─────────────────────────────────────────────────────────────┐
 │  hornfisk@arch:~$ whoami                                    │
 │                                                             │
-│  > Vlad. Vibe coder. I build things. Why not.               │
+│  > Vlad. I build instruments, visuals, and weird software.  │
 │                                                             │
-│  hornfisk@arch:~$ echo $STATUS                              │
-│  > building stuff · Open to interesting things              │
+│  hornfisk@arch:~$ echo $STACK                               │
+│  > rust · python · wgsl · typescript                        │
 │                                                             │
 │  hornfisk@arch:~$ uname -a                                  │
-│  > Arch Linux btw.                                          │
+│  > Arch Linux · Hyprland · nih-plug · wgpu                  │
 └─────────────────────────────────────────────────────────────┘
 </pre>
 
 ### Projects
 
-<pre>
-hornfisk@arch:~$ ls ~/projects/
+<p align="center">
+  <img src="assets/vgalizer-demo.gif" alt="vgalizer — audio-reactive visuals" width="640">
+</p>
 
-  autokit            Drum machine plugin and standalone app for Linux, Windows, macOS 
-                     sample analysis · 2D map · step sequencer · VST3 / CLAP
-                     repo → <a href="https://github.com/Hornfisk/autokit">github.com/Hornfisk/autokit</a>
+[**Autokit**](https://github.com/Hornfisk/autokit) — drum machine plugin · scans your sample library, classifies by type, plots on a 2D map · Digitakt-style sequencer · VST3 / CLAP / Standalone
 
-  vgalizer           audio-reactive visualizer · VGA aesthetics · glitch fx
-                     (python doing weird things to your screen, beautifully)
+[**Slammer**](https://github.com/Hornfisk/slammer) — synthesized kick drum + clap · three-layer engine, five distortion modes, master bus chain · [hear it in your browser](https://hornfisk.github.io/slammer/) · VST3 / CLAP / Standalone
 
-  KeyFlow            DJ automation for linux nerds
-                     camelot keys · track cleanup · arch + hyprland native
+[**vgalizer**](https://github.com/Hornfisk/vgalizer) — GPU-accelerated audio-reactive DJ visualizer · 25 WGSL shader effects · beat-locked · live TUI editor · Rust + wgpu
 
-  vladsblog          personal blog · react + typescript
-                     proof that I can make things look good
-
-  follow-the-rabbit  landing page · go deeper.
-</pre>
+[**InsanoSonido**](https://github.com/Hornfisk/insanasonido) — brand site for InsanoSonido · Astro v6 SSG · Netlify · Decap CMS
 
 ### Skills
 
 <pre>
 hornfisk@arch:~$ cat skills.txt
 
-  languages  →  python · typescript · shell · html / css
-  env        →  arch · hyprland · vite · react · tailwind
-  approach   →  vibe-driven development™
-  disclaimer →  not responsible for anything in production
+  languages  →  rust · python · wgsl · typescript · shell
+  audio      →  nih-plug · dsp · VST3 / CLAP · real-time audio
+  graphics   →  wgpu · shader programming · generative visuals
+  env        →  arch · hyprland · pipewire · linux-native
 </pre>
 
 ### Find me
