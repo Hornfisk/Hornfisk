@@ -41,7 +41,7 @@
 [**vgalizer**](https://github.com/Hornfisk/vgalizer) — GPU-accelerated audio-reactive DJ visualizer · 25 WGSL shader effects · beat-locked · live TUI editor · Rust + wgpu
 
 <p align="center">
-  <img src="assets/vgalizer-demo.gif" alt="vgalizer — audio-reactive visuals" width="640">
+  <img src="assets/vgalizer-thumb.png" alt="vgalizer — audio-reactive visuals" width="640">
 </p>
 
 [**Autokit**](https://github.com/Hornfisk/autokit) — drum machine plugin · scans your sample library, classifies by type, plots on a 2D map · Digitakt-style sequencer · VST3 / CLAP / Standalone
