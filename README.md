@@ -35,13 +35,13 @@
 [**squelchbox**](https://github.com/Hornfisk/squelchbox) — TB-303-style acid bassline synth · 3-pole diode ladder filter · 16-step sequencer · slide/accent/swing · Rust + nih-plug · VST3 / CLAP / Standalone · runs on any modern CPU, no GPU needed
 
 <p align="center">
-  <img src="assets/squelchbox-screenshot.png" alt="squelchbox — TB-303 emulation" width="480">
+  <a href="https://github.com/Hornfisk/squelchbox"><img src="assets/squelchbox-screenshot.png" alt="squelchbox — TB-303 emulation" width="480"></a>
 </p>
 
 [**vgalizer**](https://github.com/Hornfisk/vgalizer) — GPU-accelerated audio-reactive DJ visualizer · 25 WGSL shader effects · beat-locked · live TUI editor · Rust + wgpu
 
 <p align="center">
-  <img src="assets/vgalizer-thumb.png" alt="vgalizer — audio-reactive visuals" width="480">
+  <a href="https://github.com/Hornfisk/vgalizer"><img src="assets/vgalizer-thumb.png" alt="vgalizer — audio-reactive visuals" width="480"></a>
 </p>
 
 <p align="center"><sub>downscaled — real output in full HD</sub></p>
