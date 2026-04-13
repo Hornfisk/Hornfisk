@@ -48,7 +48,6 @@
 
 [**Slammer**](https://github.com/Hornfisk/slammer) — synthesized kick drum + clap · three-layer engine, five distortion modes, master bus chain · [hear it in your browser](https://hornfisk.github.io/slammer/) · VST3 / CLAP / Standalone
 
-<a href="https://github.com/Hornfisk/slammer"><img src="assets/slammer-logo.png" alt="slammer" width="480"></a>
 
 [**InsanoSonido**](https://github.com/Hornfisk/insanasonido) — brand site for InsanoSonido · Astro v6 SSG · Netlify · Decap CMS
 
