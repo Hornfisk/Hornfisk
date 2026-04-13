@@ -32,19 +32,21 @@
 
 ### Projects
 
+[**squelchbox**](https://github.com/Hornfisk/squelchbox) — TB-303-style acid bassline synth · 3-pole diode ladder filter · 16-step sequencer · slide/accent/swing · Rust + nih-plug · VST3 / CLAP / Standalone
+
 <p align="center">
-  <img src="assets/vgalizer-demo.gif" alt="vgalizer — audio-reactive visuals" width="48%">
-  &nbsp;
-  <img src="assets/squelchbox-screenshot.png" alt="squelchbox — TB-303 emulation" width="48%">
+  <img src="assets/squelchbox-screenshot.png" alt="squelchbox — TB-303 emulation" width="640">
 </p>
 
-[**squelchbox**](https://github.com/Hornfisk/squelchbox) — TB-303-style acid bassline synth · 3-pole diode ladder filter · 16-step sequencer · slide/accent/swing · Rust + nih-plug · VST3 / CLAP / Standalone
+[**vgalizer**](https://github.com/Hornfisk/vgalizer) — GPU-accelerated audio-reactive DJ visualizer · 25 WGSL shader effects · beat-locked · live TUI editor · Rust + wgpu
+
+<p align="center">
+  <img src="assets/vgalizer-demo.gif" alt="vgalizer — audio-reactive visuals" width="640">
+</p>
 
 [**Autokit**](https://github.com/Hornfisk/autokit) — drum machine plugin · scans your sample library, classifies by type, plots on a 2D map · Digitakt-style sequencer · VST3 / CLAP / Standalone
 
 [**Slammer**](https://github.com/Hornfisk/slammer) — synthesized kick drum + clap · three-layer engine, five distortion modes, master bus chain · [hear it in your browser](https://hornfisk.github.io/slammer/) · VST3 / CLAP / Standalone
-
-[**vgalizer**](https://github.com/Hornfisk/vgalizer) — GPU-accelerated audio-reactive DJ visualizer · 25 WGSL shader effects · beat-locked · live TUI editor · Rust + wgpu
 
 [**InsanoSonido**](https://github.com/Hornfisk/insanasonido) — brand site for InsanoSonido · Astro v6 SSG · Netlify · Decap CMS
 
