@@ -7,29 +7,6 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
-<pre>
- _    _  ____  _____  _   _ ______ _____  _____ _  __
-| |  | |/ __ \|  __ \| \ | |  ____|_   _|/ ____| |/ /
-| |__| | |  | | |__) |  \| | |__    | | | (___ | ' /
-|  __  | |  | |  _  /| . ` |  __|   | |  \___ \|  <
-| |  | | |__| | | \ \| |\  | |     _| |_ ____) | . \
-|_|  |_|\____/|_|  \_\_| \_|_|    |_____|_____/|_|\_\
-</pre>
-
-<pre>
-┌─────────────────────────────────────────────────────────────┐
-│  hornfisk@arch:~$ whoami                                    │
-│                                                             │
-│  > Vlad. I build instruments, visuals, and weird software.  │
-│                                                             │
-│  hornfisk@arch:~$ echo $STACK                               │
-│  > rust · python · wgsl · typescript                        │
-│                                                             │
-│  hornfisk@arch:~$ uname -a                                  │
-│  > Arch Linux · Hyprland · nih-plug · wgpu                  │
-└─────────────────────────────────────────────────────────────┘
-</pre>
-
 ### Projects
 
 [**squelchbox**](https://github.com/Hornfisk/squelchbox) — TB-303-style acid bassline synth · 3-pole diode ladder filter · 16-step sequencer · slide/accent/swing · Rust + nih-plug · VST3 / CLAP / Standalone · runs on any modern CPU, no GPU needed
@@ -52,14 +29,3 @@
 [**InsanoSonido**](https://github.com/Hornfisk/insanasonido) — brand site for InsanoSonido · Astro v6 SSG · Netlify · Decap CMS
 
 <a href="https://github.com/Hornfisk/insanasonido"><img src="assets/insanasonido-screenshot.png" alt="insanasonido" width="480"></a>
-
-### Skills
-
-<pre>
-hornfisk@arch:~$ cat skills.txt
-
-  languages  →  rust · python · wgsl · typescript · shell
-  audio      →  nih-plug · dsp · VST3 / CLAP · real-time audio
-  graphics   →  wgpu · shader programming · generative visuals
-  env        →  arch · hyprland · pipewire · linux-native
-</pre>
