@@ -63,12 +63,3 @@ hornfisk@arch:~$ cat skills.txt
   graphics   →  wgpu · shader programming · generative visuals
   env        →  arch · hyprland · pipewire · linux-native
 </pre>
-
-### Find me
-
-<pre>
-hornfisk@arch:~$ cat find_me.txt
-
-  github → <a href="https://github.com/Hornfisk">github.com/Hornfisk</a>
-  blog   → vlads.blog
-</pre>
