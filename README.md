@@ -24,8 +24,3 @@
 <a href="https://github.com/Hornfisk/autokit"><img src="assets/autokit-screenshot.png" alt="autokit" width="480"></a>
 
 [**Slammer**](https://github.com/Hornfisk/slammer) — synthesized kick drum + clap · three-layer engine, five distortion modes, master bus chain · [hear it in your browser](https://hornfisk.github.io/slammer/) · VST3 / CLAP / Standalone
-
-
-[**InsanoSonido**](https://github.com/Hornfisk/insanasonido) — brand site for InsanoSonido · Astro v6 SSG · Netlify · Decap CMS
-
-<a href="https://github.com/Hornfisk/insanasonido"><img src="assets/insanasonido-screenshot.png" alt="insanasonido" width="480"></a>
