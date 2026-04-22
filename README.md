@@ -13,10 +13,6 @@
 
 <a href="https://github.com/Hornfisk/squelchbox"><img src="assets/squelchbox-demo.gif" alt="squelchbox — TB-303 emulation" width="480"></a>
 
-[**vgalizer**](https://github.com/Hornfisk/vgalizer) — GPU-accelerated audio-reactive DJ visualizer · 25 WGSL shader effects · beat-locked · live TUI editor · Rust + wgpu
-
-<a href="https://github.com/Hornfisk/vgalizer"><img src="assets/vgalizer-thumb.png" alt="vgalizer — audio-reactive visuals" width="480"></a>
-
 <sub>downscaled — real output in full HD</sub>
 
 [**Autokit**](https://github.com/Hornfisk/autokit) — drum machine plugin · scans your sample library, classifies by type, plots on a 2D map · Digitakt-style sequencer · VST3 / CLAP / Standalone
