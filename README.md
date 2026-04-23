@@ -7,6 +7,17 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
 </p>
 
+<p align="center">
+  <a href="https://ko-fi.com/hyperfocusdsp">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Support me on Ko-fi" />
+  </a>
+</p>
+
+<p align="center">
+  If you like my plugins and tools, you can support my work on
+  <a href="https://ko-fi.com/hyperfocusdsp">Ko-fi</a>.
+</p>
+
 ### Projects
 
 [**squelchbox**](https://github.com/Hornfisk/squelchbox) — TB-303-style acid bassline synth · 3-pole diode ladder filter · 16-step sequencer · slide/accent/swing · Rust + nih-plug · VST3 / CLAP / Standalone · runs on any modern CPU, no GPU needed · [hear it in your browser](https://hornfisk.github.io/squelchbox/)
