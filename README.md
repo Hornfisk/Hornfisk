@@ -30,6 +30,6 @@
 
 <a href="https://github.com/Hornfisk/autokit"><img src="assets/autokit-screenshot.png" alt="autokit" width="480"></a>
 
-[**Slammer**](https://github.com/Hornfisk/slammer) — synthesized kick drum + clap · three-layer engine, five distortion modes, master bus chain · [hear it in your browser](https://hornfisk.github.io/slammer/) · VST3 / CLAP / Standalone
+[**Niner**](https://github.com/hyperfocusdsp/niner) — synthesized kick drum + 909-style clap · three-layer engine, five distortion modes, master bus chain · [hear it in your browser](https://hyperfocusdsp.github.io/niner/) · VST3 / CLAP / Standalone · *formerly Slammer*
 
-<a href="https://github.com/Hornfisk/slammer"><img src="assets/slammer-screenshot.webp" alt="slammer — kick drum synthesizer" width="480"></a>
+<a href="https://github.com/hyperfocusdsp/niner"><img src="assets/niner-screenshot.webp" alt="niner — kick drum synthesizer" width="480"></a>
