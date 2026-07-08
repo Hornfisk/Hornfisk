@@ -20,7 +20,7 @@
 
 ### Projects
 
-[**Bombo**](https://github.com/hyperfocusdsp/bombo) - kick-drum synthesizer + rumble-FX for techno, house, DnB, trap & ambient · two-voice engine (sub + synth/sample body) · reorderable drive → filter → delay → reverb chain · reverse-bass sidechain ducking, six one-knob macros, live scope, preset bank · bomb-shaped chassis hiding a working 1992-style BBS with a playable mini-game · JUCE / C++ · VST3 / AU / CLAP / Standalone
+[**Bombo**](https://github.com/hyperfocusdsp/bombo) - kick-drum synthesizer + rumble-FX for techno, house, DnB, trap & ambient · two-voice engine (sub + synth/sample body) · reorderable drive → filter → delay → reverb chain · reverse-bass sidechain ducking, six one-knob macros, live scope, preset bank · bomb-shaped chassis hiding a working 1992-style BBS with a playable mini-game · [hear it in your browser](https://hyperfocusdsp.github.io/bombo/) · JUCE / C++ · VST3 / AU / CLAP / Standalone
 
 <a href="https://github.com/hyperfocusdsp/bombo"><img src="assets/bombo-screenshot.webp" alt="bombo - kick-drum synthesizer" width="480"></a>
 
