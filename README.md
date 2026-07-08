@@ -20,20 +20,20 @@
 
 ### Projects
 
-[**Bombo**](https://github.com/hyperfocusdsp/bombo) — kick-drum synthesizer + rumble-FX for techno, house, DnB, trap & ambient · two-voice engine (sub + synth/sample body) · reorderable drive → filter → delay → reverb chain · reverse-bass sidechain ducking, six one-knob macros, live scope, preset bank · bomb-shaped chassis hiding a working 1992-style BBS with a playable mini-game · JUCE / C++ · VST3 / AU / CLAP / Standalone · 🔊 [hear it — *Field Test*](assets/bombo-field-test.mp3)
+[**Bombo**](https://github.com/hyperfocusdsp/bombo) - kick-drum synthesizer + rumble-FX for techno, house, DnB, trap & ambient · two-voice engine (sub + synth/sample body) · reorderable drive → filter → delay → reverb chain · reverse-bass sidechain ducking, six one-knob macros, live scope, preset bank · bomb-shaped chassis hiding a working 1992-style BBS with a playable mini-game · JUCE / C++ · VST3 / AU / CLAP / Standalone · 🔊 [hear it - *Field Test*](assets/bombo-field-test.mp3)
 
-<a href="https://github.com/hyperfocusdsp/bombo"><img src="assets/bombo-screenshot.webp" alt="bombo — kick-drum synthesizer" width="480"></a>
+<a href="https://github.com/hyperfocusdsp/bombo"><img src="assets/bombo-screenshot.webp" alt="bombo - kick-drum synthesizer" width="480"></a>
 
-[**Niner**](https://github.com/hyperfocusdsp/niner) — synthesized kick drum + 909-style clap · three-layer engine, five distortion modes, master bus chain · [hear it in your browser](https://hyperfocusdsp.github.io/niner/) · VST3 / CLAP / Standalone · *formerly Slammer*
+[**Niner**](https://github.com/hyperfocusdsp/niner) - synthesized kick drum + 909-style clap · three-layer engine, five distortion modes, master bus chain · [hear it in your browser](https://hyperfocusdsp.github.io/niner/) · VST3 / CLAP / Standalone · *formerly Slammer*
 
-<a href="https://github.com/hyperfocusdsp/niner"><img src="assets/niner-screenshot.webp" alt="niner — kick drum synthesizer" width="480"></a>
+<a href="https://github.com/hyperfocusdsp/niner"><img src="assets/niner-screenshot.webp" alt="niner - kick drum synthesizer" width="480"></a>
 
-[**Autokit**](https://github.com/Hornfisk/autokit) — drum machine plugin · scans your sample library, classifies by type, plots on a 2D map · Digitakt-style sequencer · VST3 / CLAP / Standalone
+[**Autokit**](https://github.com/Hornfisk/autokit) - drum machine plugin · scans your sample library, classifies by type, plots on a 2D map · Digitakt-style sequencer · VST3 / CLAP / Standalone
 
 <a href="https://github.com/Hornfisk/autokit"><img src="assets/autokit-screenshot.png" alt="autokit" width="480"></a>
 
-[**squelchbox**](https://github.com/Hornfisk/squelchbox) — TB-303-style acid bassline synth · 3-pole diode ladder filter · 16-step sequencer · slide/accent/swing · Rust + nih-plug · VST3 / CLAP / Standalone · runs on any modern CPU, no GPU needed · [hear it in your browser](https://hornfisk.github.io/squelchbox/)
+[**squelchbox**](https://github.com/Hornfisk/squelchbox) - TB-303-style acid bassline synth · 3-pole diode ladder filter · 16-step sequencer · slide/accent/swing · Rust + nih-plug · VST3 / CLAP / Standalone · runs on any modern CPU, no GPU needed · [hear it in your browser](https://hornfisk.github.io/squelchbox/)
 
-<a href="https://github.com/Hornfisk/squelchbox"><img src="assets/squelchbox-demo.gif" alt="squelchbox — TB-303 emulation" width="480"></a>
+<a href="https://github.com/Hornfisk/squelchbox"><img src="assets/squelchbox-demo.gif" alt="squelchbox - TB-303 emulation" width="480"></a>
 
-<sub>downscaled — real output in full HD</sub>
+<sub>downscaled - real output in full HD</sub>
